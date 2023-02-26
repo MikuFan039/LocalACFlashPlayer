@@ -1,0 +1,1 @@
+{"createTime":"2014-04-07 20:01:42.0","sourceType":"sina","status":2,"danmakuId":"AC2014","sourceUrl":"http://localhost/V2/video.mp4","contentId":"AC2014","allowDanmaku":0,"sourceId":"AC2014","id":"AC2014","startTime":0,"time":"1000","title":"Part 1","config":0,"success":true}
