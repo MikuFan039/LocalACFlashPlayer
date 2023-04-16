@@ -8,7 +8,7 @@
     <durl>
         <order>1</order>
         <length></length>
-        <url><![CDATA[ http://localhost/V2/video.mp4 ]]></url>
+        <url><![CDATA[ http://localhost/file/video.mp4 ]]></url>
     </durl>
     <vtags><![CDATA[]]></vtags>
     <ad><![CDATA[]]></ad>
